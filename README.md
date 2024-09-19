@@ -1,10 +1,10 @@
 # Hi there 👋, I'm Ismail KARMOUT
 
-A student specializing in artificial intelligence and data analysis. With a passion for exploring the depths of AI algorithms and uncovering insights from data, I'm on a journey to harness the power of technology to solve real-world problems. Through my studies, I've developed a strong foundation in machine learning, natural language processing, and statistical analysis. I'm enthusiastic about applying these skills to create innovative solutions and drive advancements in various domains. Join me as I delve into the fascinating realm of AI and data science, pushing the boundaries of what's possible one project at a time.
+A specializing in artificial intelligence and data analysis. With a passion for exploring the depths of AI algorithms and uncovering insights from data, I'm on a journey to harness the power of technology to solve real-world problems. Through my studies, I've developed a strong foundation in machine learning, natural language processing, and statistical analysis. I'm enthusiastic about applying these skills to create innovative solutions and drive advancements in various domains. Join me as I delve into the fascinating realm of AI and data science, pushing the boundaries of what's possible one project at a time.
 
 ## About Me
 
-- 🌱 I’m currently learning Artificial Intelligence and Data Analytics.
+- 🌱 I have a Master Degree in Artificial Intelligence and Data Analytics.
 - 👀 I’m interested in Blockchain,Computer Vision ,Web3, and Artificial Intelligence.
 - 👯 I'm always open to collaborating on new projects.
 - 📫 How to reach me: [issmailkarmout@gmail.com](mailto:issmailkarmout@gmail.com)
